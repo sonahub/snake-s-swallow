@@ -1,0 +1,1 @@
+Immerse yourself in nostalgic gaming fun with our Python-based Snake Game project. Navigate a growing snake through obstacles and challenges, all with simple keyboard controls. With sleek graphics and addictive gameplay, this project brings the classic game to life in a modern Python environment. 
